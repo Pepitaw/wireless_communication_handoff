@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574248876 source:c:\users\user\desktop\c++\run\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+
